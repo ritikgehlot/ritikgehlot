@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Ritik <br><br>🎓 AI & Data Science at IIT Jodhpur<br>🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning<br>💡 Interested in Computer Vision, NLP, and building AI-powered applications<br>🚀 Currently working on real-world AI projects and participating in hackathons<br>📚 Always learning, experimenting, and contributing to open-source projects<br>🌱 Exploring MLOps, Generative AI, and Robotics<br>📫 Let's connect and build something amazing together!<br>
+# Hi there 👋, I'm Ritik <br><br>🎓 AI & DS at IIT Jodhpur <br>🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning<br>💡 Interested in Computer Vision, NLP, and building AI-powered applications<br>🚀 Currently working on real-world AI projects and participating in hackathons<br>📚 Always learning, experimenting, and contributing to open-source projects<br>🌱 Exploring MLOps, Generative AI, and Robotics<br>📫 Let's connect and build something amazing together!<br>
 
 
 ## 🌐 Socials:
