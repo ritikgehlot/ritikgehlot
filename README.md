@@ -256,8 +256,9 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 | Recognition | Details |
 |-------------|---------|
 | 🥈 **National Hackathon Runner-Up** | HeatShield AI: Urban heat intelligence platform (2024) |
-| 📚 **IIT Jodhpur Scholar** | Pursuing AI & Data Science with Business Analytics Minor (2024–2028) |
-| 🎓 **High Academic Performance** | CGPA: 7.75 across rigorous coursework |
+| 📚 **IIT Jodhpur Scholar** | Pursuing AI & Data Science (2024–2028) |
+| 🎓 **IIT Mandi Minor** | Business Analytics Minor |
+| 📊 **High Academic Performance** | CGPA: 7.75 across rigorous coursework |
 | 🚀 **Portfolio Builder** | 6+ production systems deployed; FAANG-targeted engineering focus |
 
 ---
@@ -280,6 +281,18 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ritik%20Gehlot-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ritikgehlot)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Ritik%20Gehlot-00B4A6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritikgehlot)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Ritik%20Gehlot-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ritikgehlot)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=ritikgehlot&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)
 
 </div>
 
