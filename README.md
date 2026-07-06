@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ritikgehlot">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Applied+AI+%26+Data+Science+Engineer;Full+Stack+Product+Developer;ML+Infrastructure+Specialist;Building+intelligent+systems+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full+Stack+Product+Developer;ML+Infrastructure+Specialist;Building+intelligent+systems+at+scale" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 
 ## 👨‍💻 About
 
-Applied AI & Data Science engineer with deep expertise in **end-to-end product systems**, **machine learning infrastructure**, and **full-stack development**. Specializing in building intelligent applications at scale—from distributed backends to production ML pipelines.
+AI & Data Science engineer with deep expertise in **end-to-end product systems**, **machine learning infrastructure**, and **full-stack development**. Specializing in building intelligent applications at scale—from distributed backends to production ML pipelines.
 
 **Core Focus:**
 - 🤖 **ML Systems Engineering**: Responsible AI, calibration, explainability (Grad-CAM, SHAP)
@@ -242,7 +242,7 @@ Prototyped autonomous systems and IoT solutions. Built data acquisition pipeline
 ---
 
 ### **Student Researcher**
-**IIT Jodhpur** · Applied AI & Data Science  
+**IIT Jodhpur** · AI & Data Science  
 *2024 – Present*
 
 Developing production-grade AI/ML systems under academic supervision. Focus: distributed systems, ML infrastructure, responsible AI. Published research on model calibration and explainability.
@@ -256,7 +256,7 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 | Recognition | Details |
 |-------------|---------|
 | 🥈 **National Hackathon Runner-Up** | HeatShield AI: Urban heat intelligence platform (2024) |
-| 📚 **IIT Jodhpur Scholar** | Pursuing Applied AI & Data Science with Business Analytics Minor (2024–2028) |
+| 📚 **IIT Jodhpur Scholar** | Pursuing AI & Data Science with Business Analytics Minor (2024–2028) |
 | 🎓 **High Academic Performance** | CGPA: 7.75 across rigorous coursework |
 | 🚀 **Portfolio Builder** | 6+ production systems deployed; FAANG-targeted engineering focus |
 
