@@ -285,30 +285,6 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikgehlot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea)](https://github.com/ritikgehlot)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=ritikgehlot&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)](https://github.com/ritikgehlot)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)](https://github.com/ritikgehlot)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ritikgehlot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
