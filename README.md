@@ -292,7 +292,7 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 
 ![Streak Stats](https://streak-stats.demolab.com?user=ritikgehlot&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&langs_count=8&cache_seconds=86400)](https://github.com/ritikgehlot)
 
 </div>
 
