@@ -19,7 +19,7 @@
 
 <div align="center">
 
-📍 **Jodhpur, Rajasthan, India** · 🚀 **FAANG-Focused Portfolio Builder**
+📍 **Jodhpur, Rajasthan, India** · 🚀 **MANGOS-Focused Portfolio Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ritikgehlot.dev-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://ritikgehlot.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik%20Gehlot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikgehlot)
