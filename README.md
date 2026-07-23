@@ -288,11 +288,22 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
 ![Streak Stats](https://streak-stats.demolab.com?user=ritikgehlot&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&langs_count=8&cache_seconds=86400)](https://github.com/ritikgehlot)
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ritikgehlot">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgehlot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&langs_count=8&card_width=320" alt="Top Languages" />
+</a>
+<a href="https://github.com/ritikgehlot">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ritikgehlot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
 </div>
 
