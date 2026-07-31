@@ -258,7 +258,7 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 | 🥈 **National Hackathon Runner-Up** | HeatShield AI: Urban heat intelligence platform (2024) |
 | 📚 **IIT Jodhpur Scholar** | Pursuing AI & Data Science (2024–2028) |
 | 🎓 **IIT Mandi Minor** | Business Analytics Minor |
-| 📊 **High Academic Performance** | CGPA: 7.75 across rigorous coursework |
+| 📊 **High Academic Performance** | CGPA: 7.50 across rigorous coursework |
 | 🚀 **Portfolio Builder** | 6+ production systems deployed; FAANG-targeted engineering focus |
 
 ---
