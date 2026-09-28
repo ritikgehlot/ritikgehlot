@@ -298,15 +298,7 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 
 
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikgehlot&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=58a6ff)](https://github.com/ritikgehlot)
-
-</div>
 
 ---
 
