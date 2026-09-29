@@ -296,12 +296,6 @@ Developing production-grade AI/ML systems under academic supervision. Focus: dis
 
 </div>
 
-
-
-
-
----
-
 ## 🐍 Contribution Snapshot
 
 <picture>
